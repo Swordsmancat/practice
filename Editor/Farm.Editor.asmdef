@@ -1,0 +1,22 @@
+{
+    "name": "Farm.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a2d8a19598eca814496b089021d08d60",
+        "GUID:363c5eb08ff8e6a439b85e37b8c20d96",
+        "GUID:c3b2bddb899e66f4ebd343719364e2bf",
+        "GUID:5e2a5ea9c08d67c48b57861d7e70c344",
+        "GUID:80918dd5ed2c5de449bc59088545785b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

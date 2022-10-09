@@ -1,0 +1,24 @@
+{
+    "name": "Farm.Hotfix",
+    "rootNamespace": "",
+    "references": [
+        "GUID:2bafac87e7f4b9b418d9448d219b01ab",
+        "GUID:363c5eb08ff8e6a439b85e37b8c20d96",
+        "GUID:5e2a5ea9c08d67c48b57861d7e70c344",
+        "GUID:efa45043feb7e4147a305b73b5cea642",
+        "GUID:80918dd5ed2c5de449bc59088545785b",
+        "GUID:f4cb6d2c24715bd4884385645277f011",
+        "GUID:2e0c0e437b0dd234f9c4df7468da22ad",
+        "GUID:d32f540831ddd2e42a017cfbab93b548",
+        "GUID:4307f53044263cf4b835bd812fc161a4"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
